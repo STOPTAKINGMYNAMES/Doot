@@ -1,0 +1,39 @@
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css');
+@import url('https://discordstyles.github.io/HorizontalServerList/HorizontalServerList.css');
+@import url('https://discordstyles.github.io/HorizontalServerList/HorizontalServerList.css');
+
+:root {
+  --accentcolor: 36,64,141;
+  --accentcolor2: 241,241,241;
+  --linkcolor: 59,130,246;
+  --mentioncolor: 235,62,54;
+  --textbrightest: 255,255,255;
+  --textbrighter: 222,222,222;
+  --textbright: 185,185,185;
+  --textdark: 140,140,140;
+  --textdarker: 115,115,115;
+  --textdarkest: 80,80,80;
+  --font: gg sans;
+  --backgroundaccent: 22,30,42;
+  --backgroundprimary: 7,16,27;
+  --backgroundsecondary: 13,21,33;
+  --backgroundsecondaryalt: 255,0,0;
+  --backgroundtertiary: 7,16,27;
+  --backgroundfloating: 255,0,206;
+  --settingsicons: 1;
+}
+
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css');
+@import url('https://discordstyles.github.io/HorizontalServerList/HorizontalServerList.css');
+@import url('https://discordstyles.github.io/HorizontalServerList/HorizontalServerList.css');
+@import url('https://discordstyles.github.io/HorizontalServerList/HorizontalServerList.css');
+
+/* Bottom HorizontalServerList. Simply remove the comments surrounding the @import to enable it. */
+/* @import url("https://discordstyles.github.io/HorizontalServerList/bottomhsl.css"); */
+
+:root {
+	--HSL-server-direction: column; /* Direction of the server list. | OPTIONS: column, column-reverse | DEFAULT: column */
+	--HSL-server-alignment: flex-start; /* Alignment of the server list. | OPTIONS: flex-start, center, flex-end | DEFAULT: flex-start */
+}
+
+/* Any custom CSS below here */
